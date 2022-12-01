@@ -4,9 +4,9 @@ if want change server you can displacement the rtt-ip and rtt-location.
 if you don't use the ffxiv_dx11, plese chagne procname to "ffxiv.exe".
 
 
-Server list
+#Server list
 
-NA
+##NA
 | name          | Url           | ip  |
 | ------------- |:-------------:| -----:|
 | Aether        | neolobby02.ffxiv.com     | 204.2.229.9  |
