@@ -1,13 +1,17 @@
 # (FF14) Using WFP technology on MudfishVPN.
 This file only using Asia (Japan - GAIA) server,
-if want change server you can displacement the rtt-ip and rtt-location.
+
+
+if want change server you can exchange the rtt-ip and rtt-location.
+
+
 if you don't use the ffxiv_dx11, plese chagne procname to "ffxiv.exe".
 
 
-#Server list- 
+# Server list #
 
 
-|NA             |               |       |
+NA 
 | name          | Url           | ip    |
 | ------------- |:-------------:| -----:|
 | Aether        | neolobby02.ffxiv.com     | 204.2.229.9  |
@@ -16,7 +20,7 @@ if you don't use the ffxiv_dx11, plese chagne procname to "ffxiv.exe".
 
 
 
-|EU             |               |       |
+EU         
 | name          | Url           | ip    |
 | ------------- |:-------------:| -----:|
 | Chaos        | neolobby06.ffxiv.com     | 195.82.50.9 |
@@ -24,7 +28,7 @@ if you don't use the ffxiv_dx11, plese chagne procname to "ffxiv.exe".
 
 
 
-|JP             |               |       |
+JP          
 | name          | Url           | ip    |
 | ------------- |:-------------:| -----:|
 | Elemental   | neolobby01.ffxiv.com     | 124.150.157.158 |
