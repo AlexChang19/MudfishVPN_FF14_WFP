@@ -8,7 +8,18 @@ if want change server you can exchange the rtt-ip and rtt-location.
 if you don't use the ffxiv_dx11, plese chagne procname to "ffxiv.exe".
 
 
-# Server list #
+# How to using file on  MudfishVPN
+
+1.  Open Mudfish Launcher.exe go to Web.
+
+2.  Setop-Program and opne WFP item mode.
+
+3.  Item-manage Iten and using add fuction to improt Custom Item, final update file.
+
+4.  Check this Item is online, and check internet.
+
+
+# Server list 
 
 JP          
 | name          | ip    |
