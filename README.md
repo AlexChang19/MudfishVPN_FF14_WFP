@@ -10,28 +10,11 @@ if you don't use the ffxiv_dx11, plese chagne procname to "ffxiv.exe".
 
 # Server list #
 
-
-NA 
-| name          | Url           | ip    |
-| ------------- |:-------------:| -----:|
-| Aether        | neolobby02.ffxiv.com     | 204.2.229.9  |
-| Primal        | neolobby04.ffxiv.com     | 204.2.229.10 |
-| Crystal       | neolobby08.ffxiv.com     | 204.2.229.11 |
-
-
-
-EU         
-| name          | Url           | ip    |
-| ------------- |:-------------:| -----:|
-| Chaos        | neolobby06.ffxiv.com     | 195.82.50.9 |
-| Light        | neolobby07.ffxiv.com     | 195.82.50.10 |
-
-
-
 JP          
-| name          | Url           | ip    |
-| ------------- |:-------------:| -----:|
-| Elemental   | neolobby01.ffxiv.com     | 124.150.157.158 |
-| Gaia        | neolobby03.ffxiv.com     | 124.150.157.157 |
-| Mana        | neolobby05.ffxiv.com     | 124.150.157.156 |
+| name          | ip    |
+| ------------- | -----:|
+| Elemental   | 124.150.157.158 |
+| Gaia        | 124.150.157.157 |
+| Mana        | 124.150.157.156 |
+| Meteor      | 202.67.52.158   |
 
