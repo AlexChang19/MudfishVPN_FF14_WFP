@@ -1,0 +1,25 @@
+{
+  "item": {
+    "category": "game", 
+    "icon": "", 
+    "name": "Final Fantasy XIV: A Realm Reborn", 
+    "rt": [
+      {
+        "procname": "ffxiv_dx11.exe"
+      }, 
+      {
+        "ip": "124.150.0.0", 
+        "netmask": "255.255.0.0"
+      }
+    ], 
+    "rtt": [
+      {
+        "family": "AF_INET", 
+        "ip": "124.150.157.157", 
+        "is_private": 0, 
+        "location": "Asia (Japan - GAIA)", 
+        "protocol": "ICMP"
+      }
+    ]
+  }
+}
